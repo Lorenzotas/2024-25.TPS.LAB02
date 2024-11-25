@@ -7,3 +7,4 @@
 - White City
 - Sheperd's Bush
 - Holland park
+- Notting Hill Gate
